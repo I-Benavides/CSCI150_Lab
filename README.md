@@ -1,2 +1,2 @@
 # CSCI150_Lab
-CSCI 150 d
+CSCI 150 demo on branching
